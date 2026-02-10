@@ -1,0 +1,114 @@
+{
+  "token": "",
+
+  "global_delay_seconds": 600,
+  "channel_cooldown_seconds": 7200,
+
+  "channels": [
+    {
+      "_note": "Anniversary",
+      "channel_id": "796633769917546536",
+      "message_file": "messages/anniversary.txt"
+    },
+    {
+      "_note": "Blackfriday",
+      "channel_id": "806490613695512616",
+      "message_file": "messages/blackfriday.txt"
+    },
+    {
+      "_note": "Summerfest",
+      "channel_id": "806456760592105483",
+      "message_file": "messages/summer.txt"
+    },
+    {
+      "_note": "Halloween",
+      "channel_id": "806456962882600960",
+      "message_file": "messages/halloween.txt"
+    },
+    {
+      "_note": "Harvest",
+      "channel_id": "806456916586790912",
+      "message_file": "messages/harvest.txt"
+    },
+    {
+      "_note": "Winterfest",
+      "channel_id": "784189920742342688",
+      "message_file": "messages/winter.txt"
+    },
+    {
+      "_note": "Pineapple",
+      "channel_id": "806456721169973258",
+      "message_file": "messages/pineapple.txt"
+    },
+    {
+      "_note": "Pinata",
+      "channel_id": "806456631172136981",
+      "message_file": "messages/pinata.txt"
+    },
+    {
+      "_note": "Grow4good",
+      "channel_id": "967097602153791528",
+      "message_file": "messages/grow4good.txt"
+    },
+    {
+      "_note": "Garuda",
+      "channel_id": "1012658140694716436",
+      "message_file": "messages/garuda.txt"
+    },
+    {
+      "_note": "Lunar",
+      "channel_id": "806455542591651840",
+      "message_file": "messages/lunar.txt"
+    },
+    {
+      "_note": "Zombie",
+      "channel_id": "806498636065931265",
+      "message_file": "messages/zombie.txt"
+    },
+    {
+      "_note": "Wolf",
+      "channel_id": "806494307036037140",
+      "message_file": "messages/winter.txt"
+    },
+    {
+      "_note": "Consumables",
+      "channel_id": "847201895873118218",
+      "message_file": "messages/consumables.txt"
+    },
+    {
+      "_note": "Treasure",
+      "channel_id": "806499467711742002",
+      "message_file": "messages/treasure.txt"
+    },
+    {
+      "_note": "Party(Anniversary",
+      "channel_id": "796633769917546536",
+      "message_file": "messages/party.txt"
+    },
+    {
+      "_note": "Locke",
+      "channel_id": "806494474200547338",
+      "message_file": "messages/locke.txt"
+    },
+    {
+      "_note": "Hands",
+      "channel_id": "889195913275408455",
+      "message_file": "messages/hands.txt"
+    },
+    {
+      "_note": "Blast",
+      "channel_id": "782718823488290826",
+      "message_file": "messages/blast.txt"
+    },
+    {
+      "_note": "Doors",
+      "channel_id": "846671811223355402",
+      "message_file": "messages/doors.txt"
+    },
+    {
+      "_note": "unobtainable",
+      "channel_id": "900860787298553877",
+      "message_file": "messages/unobtainable.txt"
+    },
+  ]
+}
