@@ -18,7 +18,7 @@
     {
       "_note": "Summerfest",
       "channel_id": "806456760592105483",
-      "message_file": "messages/summer.txt"
+      "message_file": "messages/summerfest.txt"
     },
     {
       "_note": "Halloween",
@@ -34,7 +34,6 @@
       "_note": "Winterfest",
       "channel_id": "784189920742342688",
       "message_file": "messages/winter.txt"
-      
     },
     {
       "_note": "Pineapple",
@@ -82,7 +81,7 @@
       "message_file": "messages/treasure.txt"
     },
     {
-      "_note": "Party(Anniversary",
+      "_note": "Party(Anniversary)",
       "channel_id": "796633769917546536",
       "message_file": "messages/party.txt"
     },
@@ -110,11 +109,6 @@
       "_note": "unobtainable",
       "channel_id": "900860787298553877",
       "message_file": "messages/unobtainable.txt"
-    },{
-      "_note": "Winterfest",
-      "channel_id": "784189920742342688",
-      "message_file": "messages/winter.txt"
-    }
-
+    },
   ]
 }
