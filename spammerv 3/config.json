@@ -68,7 +68,7 @@
     {
       "_note": "Wolf",
       "channel_id": "806494307036037140",
-      "message_file": "messages/winter.txt"
+      "message_file": "messages/wolf.txt"
     },
     {
       "_note": "Consumables",
@@ -110,5 +110,20 @@
       "channel_id": "900860787298553877",
       "message_file": "messages/unobtainable.txt"
     },
+    {
+      "_note": "Thanksgiving",
+      "channel_id": "779116201350529054",
+      "message_file": "messages/thanks.txt"
+    },
+    {
+      "_note": "Ubiweek",
+      "channel_id": "997609617410490418",
+      "message_file": "messages/ubiweek.txt"
+    },
+    {
+      "_note": "Ghost",
+      "channel_id": "762435265025277993",
+      "message_file": "messages/ghost.txt"
+    }
   ]
 }
