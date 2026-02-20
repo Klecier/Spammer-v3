@@ -124,6 +124,11 @@
       "_note": "Ghost",
       "channel_id": "762435265025277993",
       "message_file": "messages/ghost.txt"
+    },
+    {
+      "_note": "Valentine",
+      "channel_id": "806455698014732318",
+      "message_file": "messages/valen.txt"
     }
   ]
 }
